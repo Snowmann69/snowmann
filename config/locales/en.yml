@@ -8,7 +8,7 @@ en:
         index:
             title: "Home"
             headline: "..:: welcome to the wonderful World of Illuna ::.."
-            description_html: "…a german Minetest PvP Server the an unique modcollection, an own texturepack and a high quality demanding.<br>You will find us on the public Serverlist on your Client."
+            description_html: "…a german Minetest PvP Server with a unique modcollection, and our own high quality texturepack.<br>You will find us on the public Serverlist on your Client."
             join: "Let's join the game!"
             modal_title: "Getting Started"
             modal_step1_html: "<h3>Step 1:</h3><p>Doublecheck your Client Version.<br><img src='//images.illuna-minetest.tk/version-example.jpg' class='img-frame-sm'><br>If its below Minetest 0.4.13, <br>please do an update, to make sure to be compatible with this Server.<br>If you need help with updating, just ask us.<br></p>"
